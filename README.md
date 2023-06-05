@@ -1,3 +1,9 @@
+## Note for Cancer-ai Team
+
+This repo contains the mountain car example which we used to test several ideas regarding model-free reinforcement learning. Zhuquing Liu helped us get a decentralized IRL operating using this as her basis. We have been thinking of using this framework with env files to show that we can achieve model-free irl for cancer with our encoded state-actions.
+
+https://github.com/cancer-ai/gym/blob/master/gym/envs/classic_control/mountain_car.py
+
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://pre-commit.com/) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## Important Notice
