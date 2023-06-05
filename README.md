@@ -1,6 +1,6 @@
 ## Note for Cancer-ai Team
 
-This repo contains the mountain car example which we used to test several ideas regarding model-free reinforcement learning. Zhuquing Liu helped us get a decentralized IRL operating using this as her basis. We have been thinking of using this framework with env files to show that we can achieve model-free irl for cancer with our encoded state-actions.
+This repo contains the mountain car example which we used to test several ideas regarding model-free reinforcement learning. Zhuquing Liu helped us get a decentralized IRL operating using this as her basis. We have been thinking of using this framework with env files to show that we can achieve model-free irl for cancer with our encoded state-actions. Notice that in the mountain car example the state transition is already functionalized (i.e., can be replaced with a neural network transition function) and the actions are discrete (needs to be replaced with an encoded action input).
 
 https://github.com/cancer-ai/gym/blob/master/gym/envs/classic_control/mountain_car.py
 
